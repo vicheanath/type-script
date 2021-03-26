@@ -1,0 +1,19 @@
+{
+  "name": "typelearn",
+  "version": "1.0.0",
+  "description": "- https://www.typescriptlang.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vicheanath/type-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicheanath/type-script/issues"
+  },
+  "homepage": "https://github.com/vicheanath/type-script#readme"
+}
